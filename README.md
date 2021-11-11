@@ -1,1 +1,1 @@
-# 30-Day-Vanilla-JS-Challenge
+I am halfway through completing the 30 day JavaScript code challenge, these are interesting projects that in turn contain very easy to understand explanations.
